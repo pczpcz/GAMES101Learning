@@ -1,2 +1,2 @@
 # GAMES101Learning
-https://games-cn.org/gamescoursescollection/
+学习资源：https://games-cn.org/gamescoursescollection/
